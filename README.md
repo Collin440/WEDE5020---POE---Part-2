@@ -1,6 +1,10 @@
 # WEDE5020---POE---Part-2
 Part 2 of my POE for WEDE5020 including CSS styling for all HTML files.
 
+Screenshot:
+![image](https://github.com/user-attachments/assets/baff23a0-3fb6-47d3-a5ad-c43e6dfb1571)
+
+
 References:
 
 Part 1:
